@@ -1,7 +1,7 @@
 from helper_functions import *
 
 #-----------------------FILL IN THE FOLDER WHERE YOUR IMAGE EXISTS--------------------------
-datafolder = r"C:\Stuff\Python\Assignment 1\Python assgnment 1 workout\images/"
+datafolder = r"C:\Github_repository\Edge_detection_python\images/"
 imgpath = datafolder + "1.jpg" 
 #----------------------------------------STARTER CODE----------------------------------------
 # Convert the color image to gracescale and returns the gracescale pixels 
